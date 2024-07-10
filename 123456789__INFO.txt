@@ -1,0 +1,7 @@
+Name:Apostolos ZarrasName:
+AFM:123456789AFM:
+Status:Married Filing JointlyStatus:
+Income:22570.0Income:
+
+Receipts:
+
